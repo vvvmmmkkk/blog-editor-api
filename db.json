@@ -1,1 +1,18 @@
-
+{
+  "metadata": [
+    {
+      "id": "https://react.dev",
+      "url": "https://react.dev",
+      "title": "React – A JavaScript library for building user interfaces",
+      "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+      "image": "https://react.dev/images/og-home.png"
+    },
+    {
+      "id": "https://tiptap.dev",
+      "url": "https://tiptap.dev",
+      "title": "Tiptap | The headless editor framework",
+      "description": "A headless, framework-agnostic and extendable editor framework that's loved by developers and trusted by companies like Gitlab, Dribbble and The Guardian.",
+      "image": "https://tiptap.dev/og-image.jpg"
+    }
+  ]
+}
